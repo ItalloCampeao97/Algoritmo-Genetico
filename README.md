@@ -1,2 +1,2 @@
-# Algortimo-Genetico
+# Algoritmo-Genetico
 Algortimo Genetico em Scilab
